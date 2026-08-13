@@ -1,0 +1,22 @@
+Smart Energy Resource Monitor
+
+To build: Smart Feeder intelligence Node ( to be run using simulation of data from real distribution feeders)
+
+Features:
+- Real time hosting capacity prediction instead of static
+- RIQI Score calculator 
+- AI based advanced fault predicter using TinyML/ESP32
+- Live dashboard
+
+
+Advantages:
+- Proactive
+- Scalable
+- Validatable without field access
+
+Disadvantages:
+- Sensor accuracy limits
+- Model accuracy depends on training data
+- No direct grid control
+
+
