@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.venv/
+risk_model.pkl
+feeder_training_data.csv
